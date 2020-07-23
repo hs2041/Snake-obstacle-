@@ -8,6 +8,8 @@ The following features have been added to the Snake game repo provided:
 3. The location of the food item changes randomly after a duration of 8 to 10 seconds
 4. Control speed has been tuned to avoid the obstacles
 
+![Test Image 1](preview.png)
+
 ## Dependencies for Running Locally
 * cmake >= 3.7
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
