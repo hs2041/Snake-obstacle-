@@ -1,7 +1,6 @@
 # CPPND: Capstone Snake Game Example
 
 Capstone Project for Udacity Cpp Nanodegree 
-https://github.com/udacity/CppND-Capstone-Snake-Game
 The following features have been added to the Snake game repo provided:
 1. Additional obstacles which the snake needs to avoid
 2. No. of obstacles keeps increasing as the snake grows
